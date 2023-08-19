@@ -1,4 +1,4 @@
-package com.example.sb35718;
+package com.example.ehcache3195;
 
 /**
  * @author Sergio Lissner

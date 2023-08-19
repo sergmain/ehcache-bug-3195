@@ -85,7 +85,7 @@
         <heap>1000</heap>
     </cache-template>
 
-    <cache alias="com.example.sb35718.beans.Ids" uses-template="template-1000-1-day">
+    <cache alias="com.example.ehcache3195.beans.Ids" uses-template="template-1000-1-day">
     </cache>
 
 

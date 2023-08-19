@@ -14,7 +14,7 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
-package com.example.sb35718.beans;
+package com.example.ehcache3195.beans;
 
 import jakarta.persistence.*;
 import lombok.Data;
