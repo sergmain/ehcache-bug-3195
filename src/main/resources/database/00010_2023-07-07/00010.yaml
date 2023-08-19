@@ -1,0 +1,12 @@
+databaseChangeLog:
+  -  changeSet:
+       id:  '00010-init-commit'
+       author:  sergmain
+       validCheckSum: any
+       changes:
+         -  sqlFile:
+              dbms:  'h2'
+              path:  00010-H2-Initial-revision.sql
+              stripComments:  true
+              relativeToChangelogFile: true
+
